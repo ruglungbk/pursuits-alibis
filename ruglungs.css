@@ -1,0 +1,17 @@
+<style>
+h1 {color: purple;}
+</style>
+#speechinput {
+	    width: 25px; // just wide enough to show mic icon
+	    height: 25px; // just high enough to show mic icon
+	    cursor:pointer;
+	    border: none;
+	    position: absolute;
+	    margin-left: 5px;
+	    outline: none;
+	    background: transparent;
+	}
+	#mytextarea {
+	    height: 300px;
+	    width: 100px;
+	}
